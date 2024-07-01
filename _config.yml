@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qiang Li"
-  avatar           : "liqiang-pic.jpg"
+  avatar           : "liqiang-pic-compress.jpg"
   bio              : "PhD student"
   location         : "Shanghai, China"
   employer         : "Fudan University"
