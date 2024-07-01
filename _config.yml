@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qiang Li"
-  avatar           : "liqiang-pic.png"
+  avatar           : "liqiang-pic.jpg"
   bio              : "PhD student"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   pubmed           : #
-  googlescholar    : "https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GKernRMAAAAJ"
   # email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xingliu97/"
+  linkedin         : #"xingliu97/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@xingliu97"
+  twitter          : #"@xingliu97"
   vine             :
   weibo            :
   xing             :

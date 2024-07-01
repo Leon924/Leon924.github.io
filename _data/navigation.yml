@@ -2,25 +2,24 @@
 main:
   - title: "Publication"
     url: /publication/
+  
+  - title: "Portfolio"
+    url: /portfolio/
 
-  - title: "About Me"
-    url: /about_me/
+  - title: "Hobby"
+    url: /hobby/
 
-  - title: "Imperial Maths Competition"
-    url: /imperial_maths_competition/
-
-  - title: "Contact"
-    url: /contact/
-
+  # - title: "About Me"
+  #   url: /about_me/
+        
+  # - title: "Contact"
+  #   url: /contact/
 #  - title: "Talks"
 #    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
+
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
