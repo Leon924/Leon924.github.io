@@ -77,10 +77,8 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
-  # Biographic information
   name             : "Qiang Li"
   avatar           : "liqiang-pic.jpg"
   pronouns         : # example: "she/her"  
