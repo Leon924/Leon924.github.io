@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-permalink: /portfolio/
+title: "Gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
