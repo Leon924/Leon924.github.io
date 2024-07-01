@@ -14,12 +14,10 @@ redirect_from:
 
 Hi there! My name is Qiang Li. 
 
-Qiang Li received the B.S. degree in electronics science and technology from Xidian University, Xi’an, China, in 2019. He is currently pursuing the Ph.D. degree in the School of Microelectronics, Fudan University, advised by [Prof. Han Jun](https://sme.fudan.edu.cn/5f/da/c31145a352218/page.htm). 
-
-My current research interests includes microarchitecture design methodology, system-level power/thermal analysis and management, and low-power hardware design for deep-learning.
+I received the B.S. degree in electronics science and technology from Xidian University, Xi’an, China, in 2019. Currently, I am pursuing the Ph.D. degree in the School of Microelectronics, Fudan University, advised by [Prof. Han Jun](https://sme.fudan.edu.cn/5f/da/c31145a352218/page.htm). My research interests includes microarchitecture design methodology, power modeling and management, and energy-efficiency of Heterogeneous platforms.
 
 ## Education 
-:mortar_board: BEng in Electronic Science and Technology, 2015-2019, <span class="grey">XiDian University</span>
+- :mortar_board: BEng in Electronic Science and Technology, 2015-2019, <span class="grey">XiDian University</span>
 
 <!-- ## Resources
 [Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an **unofficial** LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references. -->

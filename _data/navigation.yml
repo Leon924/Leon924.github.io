@@ -3,11 +3,21 @@ main:
   - title: "Publication"
     url: /publication/
   
+  - title: "Career"
+    url: /career/
+
+  - title: "Project"
+    url: /project/
+
+  - title: "Awards"
+    url: /awards/
+  
   - title: "Gallery"
     url: /gallery/
 
   - title: "Hobby"
     url: /hobby/
+
 
   # - title: "About Me"
   #   url: /about_me/

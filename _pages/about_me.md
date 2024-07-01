@@ -18,4 +18,3 @@ Qiang Li received the B.S. degree in electronics science and technology from Xid
 
 I have internship experience at Meta (summer 2022) and JPMorgan (summer 2020). 
 
-I 
