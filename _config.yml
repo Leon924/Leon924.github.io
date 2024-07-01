@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu 李强"
+title                    : "Qiang Li 李强"
 title_separator          : "-"
 name                     : &name "Xing liu"
-description              : &description "Welcome to my webpage!"
-url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Student"
+url                      : https://Leon924.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XingLLiu/XingLLiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,23 +80,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xing Liu"
-  avatar           : "profile_nanjing.png"
-  bio              : "PhD student of Statistics at Imperial College London"
-  location         : "London, UK"
-  employer         :
-  pubmed           : #
-  googlescholar    : "https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
-  # email            : ""
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  # Biographic information
+  avatar           : "liqiang-pic.jpg"
+  name             : "Qiang Li"
+  pronouns         : # example: "she/her"  
+  bio              : "PhD Student"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
+  uri              : # URL
+  email            : "qiangli19@fudan.edu.cn" 
+
+  # Academic websites
+  #arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GKernRMAAAAJ“
+  #impactstory     : # URL
+  #orcid           : "http://orcid.org/yourorcidurl"
+  #semantic        : # URL
+  #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XingLLiu"
+  github           : "Leon924"
   google_plus      :
   keybase          :
   instagram        :
