@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu 刘行"
+title                    : "Qiang Li 李强"
 title_separator          : "-"
-name                     : &name "Xing liu"
+name                     : &name "Qiang Li"
 description              : &description "Welcome to my webpage!"
-url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Leon924.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XingLLiu/XingLLiu.github.io"
+repository               : "Leon924/Leon924.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xing Liu"
-  avatar           : "profile_nanjing.png"
-  bio              : "PhD student of Statistics at Imperial College London"
-  location         : "London, UK"
-  employer         :
+  name             : "Qiang Li"
+  avatar           : "liqiang-pic.png"
+  bio              : "PhD student"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
   # email            : ""
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XingLLiu"
+  github           : "Leon924"
   google_plus      :
   keybase          :
   instagram        :
