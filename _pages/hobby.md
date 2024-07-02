@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 ## Basketball
-- suffered a fracture of the fifth metatarsal bone of my left foot in 22th May!
+- Suffered a fracture of the fifth metatarsal bone of my left foot in 22th May!
 
 ## Bodybuilding
-- bench press： PB 110KG
+- Bench press： PB 110KG
 - Squat：PB 140KG
 
 ## Running

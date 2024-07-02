@@ -11,5 +11,3 @@ author_profile: true
   
 ## Xidian University
 
-- 
-
