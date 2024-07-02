@@ -5,9 +5,16 @@ author_profile: true
 ---
 
 ## Basketball
-- bad news: foot injury!
+- suffered a fracture of the fifth metatarsal bone of my left foot in 22th May!
+
+## Bodybuilding
+- bench press： PB 110KG
+- Squat：PB 140KG
+
+## Running
+- 24.44min@5KM
 
 ## Swimming
 
-- 
+
 
