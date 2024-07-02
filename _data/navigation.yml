@@ -18,6 +18,8 @@ main:
   - title: "Hobby"
     url: /hobby/
 
+  - title: “Post"
+    url: /post/
 
   # - title: "About Me"
   #   url: /about_me/
