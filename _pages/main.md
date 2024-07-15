@@ -17,7 +17,9 @@ Hi there! My name is Qiang Li.
 I received the B.S. degree in electronics science and technology from Xidian University, Xi’an, China, in 2019. Currently, I am pursuing the Ph.D. degree in the School of Microelectronics, Fudan University, advised by [Prof. Han Jun](https://sme.fudan.edu.cn/5f/da/c31145a352218/page.htm). My research interests includes microarchitecture design methodology, power modeling and management, and energy-efficiency of Heterogeneous platforms.
 
 ## Education 
-- :mortar_board: BEng in Electronic Science and Technology, 2015-2019, <span class="grey">XiDian University</span>
+- :runner: PhD candidate in Microelectronics and Solid State Electronics, 2019-now, <span class="grey">Fudan University, school of microelectronics</span>
+
+- :mortar_board: BEng in Electronic Science and Technology, 2015-2019, <span class="grey">XiDian University, school of physics And optoelectronic engineering</span>
 
 <!-- ## Resources
 [Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an **unofficial** LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references. -->
@@ -31,9 +33,11 @@ I am/was a Teaching Assistant for the following courses:
 
 ## News
 
-- [1/7/2024] The birth of my personal website is same as the CPCC day!
+<!-- - [1/7/2024] The birth of my personal website is same as the CPCC day! -->
 
-- [1/2023] We publish the design space exploration work in Microelectronics Journal. 
+- [5/2024] We publish the HTM work in IPDPS2024!
+  
+- [1/2023] We publish the design space exploration work in Microelectronics Journal!
   
 
 <!-- - [10/2023] Starting from October 2023, I will become an [Enrichment Student](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the [Alan Turing Institute](https://www.turing.ac.uk/), where I will join the Turing's research community for six months to broaden my research. Please do not hesitate to reach out if you are interested in collaboration!
