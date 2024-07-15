@@ -35,15 +35,15 @@ I am/was a Teaching Assistant for the following courses:
 
 <!-- - [1/7/2024] The birth of my personal website is same as the CPCC day! -->
 
-- [5/2024] We publish the HTM work in IPDPS2024!
+- [5/2024] We publish the HTM work in IPDPS2024 !
   
-- [10/2023] We publish the BNN Accelerator work in TCAS-I!
+- [10/2023] We publish the BNN Accelerator work in TCAS-I !
   
-- [1/2023] We publish the design space exploration work in Microelectronics Journal!
-- 
-- [8/2021] We publish the "Dynamic Gesture Recognitoin Chip" work in Microelectronics Journal!
-- 
-- [11/2020] We publish the "Dynamic Gesture Recognitoin architecture" work in ICSICT!
+- [1/2023] We publish the design space exploration work in Microelectronics Journal !
+
+- [8/2021] We publish the "Dynamic Gesture Recognitoin Chip" work in Microelectronics Journal !
+ 
+- [11/2020] We publish the "Dynamic Gesture Recognitoin architecture" work in ICSICT !
 
 
 <!-- - [10/2023] Starting from October 2023, I will become an [Enrichment Student](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the [Alan Turing Institute](https://www.turing.ac.uk/), where I will join the Turing's research community for six months to broaden my research. Please do not hesitate to reach out if you are interested in collaboration!
