@@ -13,7 +13,8 @@ The DGR chip package (QFP64).
 
 ![DGR2020package, scale=0.5](http://Leon924.github.io/images/DGR-package.jpg)
 
-The fisrt PCB board solution designed in 2021.2.
+<!-- The fisrt PCB board solution designed in 2021.2. -->
+
 
 ## Digital Gesture Recognition Chip (TO in 2021)
 
