@@ -16,7 +16,7 @@ The DGR chip package (QFP64).
 <!-- The fisrt PCB board solution designed in 2021.2. -->
 
 
-## Digital Gesture Recognition Chip (TO in 2021)
+## Low power Digital Gesture Recognition Chip (TO in 2021)
 
 The low power DGR SoC on PCB.
 
