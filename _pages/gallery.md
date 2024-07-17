@@ -15,7 +15,7 @@ The DGR chip package (QFP64).
 
 The DGR on PCB board designed in 2021.2.
 
-![DGR2020pcb, scale=0.5](http://Leon924.github.io/images/DDGR-pcb-hard.png)
+![DGR2020pcb, scale=0.5](http://Leon924.github.io/images/DGR-pcb-hard.png)
 
 ## Low power Digital Gesture Recognition Chip (TO in 2021)
 
@@ -23,7 +23,7 @@ The Low power DGR (LPDGR) SoC chip, tape out in 2021.10.
 
 ![LPDGR2021, scale=0.5](http://Leon924.github.io/images/LPDGR-die.jpg)
 
-The LPDGR chip package (QFP80).
+The LPDGR chip package (QFP128).
 
 ![DGR2020package, scale=0.5](http://Leon924.github.io/images/LPDGR-package.jpg)
 
