@@ -19,7 +19,7 @@ I received the B.S. degree in electronics science and technology from Xidian Uni
 ## Education 
 - :runner: PhD candidate in Microelectronics and Solid State Electronics, 2019-now, <span class="grey">Fudan University, school of microelectronics</span>
 
-- :mortar_board: BEng in Electronic Science and Technology, 2015-2019, <span class="grey">XiDian University, school of physics And optoelectronic engineering</span>
+- :mortar_board: BEng in Electronic Science and Technology, 2015-2019, <span class="grey">XiDian University, school of physics and optoelectronic engineering</span>
 
 <!-- ## Resources
 [Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an **unofficial** LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references. -->
