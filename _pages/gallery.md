@@ -11,7 +11,7 @@ The DGR SoC chip, tape out in 2020.10.
 
 The DGR chip package (QFP64).
 
-![DGR2020package, scale=0.5](http://Leon924.github.io/images/DGR-package.jpg)
+![DGR2020bonding, scale=0.5](http://Leon924.github.io/images/DGR-bonding.jpg)
 
 The DGR on PCB board designed in 2021.2.
 
