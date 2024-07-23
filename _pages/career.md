@@ -12,8 +12,6 @@ author_profile: true
 ## Xidian University
 
 - 2015-2016 校学生会体育部
-
 - 2015-2017 TCL创意俱乐部人事部
-
 - 2016-2017 英语晨读社领读
 

@@ -4,6 +4,11 @@ permalink: /publication/
 author_profile: true
 ---
 
+## Power Modeling
+
+One work has been evaluated as top-43% by IEEE/ACM MICRO 2024. Now it is submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD).
+<!-- Li Q, Lv W X, Han J. LIGHTNING: A \underline{Light}weight Power Modeling Framework Based on Bit-Level Proxy a\underline{n}d Boost\underline{ing} Binary Tree for Complex Power Patterns on Heterogeneous Platform. -->
+
 ## Hardware Transaction Memory
 
 - Wan L, Chao F, Li Q, et al. LockillerTM: Enhancing Performance Lower Bounds in Best-Effort Hardware Transactional Memory[C]//2024 **IEEE International Parallel and Distributed Processing Symposium (IPDPS)**. IEEE, 2024: 865-875. [paper](http://Leon924.github.io/files/IPDPS2024-LockillerTM.pdf).
