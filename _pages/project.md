@@ -19,7 +19,7 @@ author_profile: true
 - Tape-out and Testing: Completed the mid- and backend flow of the chip using TSMC 28nm process. Implemented various low-power techniques including multiple clock domains, clock gating, multiple voltage domains, and memory sleep control. The chip can achieve 30FPS dynamic gesture recognition with a power consumption of 397µW@0.584V, and its standby power at room temperature is only 78.3µW. (Responsible)
 
 
-## Design Space Exploration of RISC-V processor
+## Design Space Exploration of RISC-V Core Microarchitecture
 <!-- 2021.10-2022.12 -->
 - Sampling Algorithm Design: designed a hybrid sampling algorithm that integrates edge design points and central proximity design points. This algorithm efficiently completes optimization within a subspace of 1024 with only 7 initial samples, demonstrating low preparation effort.
 - Multi-Objective Bayesian Optimization Algorithm Design: Developed a parallel DKL-GP algorithm as a surrogate model. Used the EHVI of the tri-objective hypervolume in the objective space as the acquisition function. The BO algorithm can find the optimal solution in just 6 iterations with parallel of 3, showing high time efficiency.
