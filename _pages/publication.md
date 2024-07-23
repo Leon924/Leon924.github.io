@@ -26,3 +26,9 @@ One work has been evaluated as top-43% by IEEE/ACM MICRO 2024. Now it is submitt
 - Zhang Y L, Li Q, Zhang H, et al. A 28 nm, 397 μW real-time dynamic gesture recognition chip based on RISC-V processor[J]. **Microelectronics Journal**, 2021. [paper](http://Leon924.github.io/files/DGRCHIP.pdf).
 
 - Zhang Y L, Wang W Z, Li Q, et al. An Ultra-low-power High-precision Dynamic Gesture Recognition Coprocessor Based On RISC-V Architecture[C]//2020 IEEE 15th **International Conference on Solid-State & Integrated Circuit Technology (ICSICT)**. IEEE, 2020. [paper](http://Leon924.github.io/files/dgr-icsict.pdf).
+
+
+# Patent
+
+- 一种面向人机交互领域的动态手势识别硬件加速器，CN112861641B. [pdf](http://Leon924.github.io/files/HMI-accelerator.pdf)
+- 一种面向智能终端领域的动态手势识别硬件加速器，CN112861640A. [pdf](http://Leon924.github.io/files/AIoT-accelerator.pdf)
